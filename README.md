@@ -1,0 +1,8 @@
+# Lead-Scoring-Logistic-Regression-
+This case study focuses on developing a logistic regression model designed to assign lead scores, ranging from 0 to 100, to potential customers within the education industry. The primary objective is to aid the company in identifying "Hot Leads" – those with a higher likelihood of conversion – with the aim of achieving a target lead conversion rate of approximately 80%. The model considers a range of attributes, including Lead Source, Total Time Spent on Website, Total Visits, and Last Activity, among others. Moreover, it effectively manages categorical variables that contain a 'Select' level, treating it as a null value.
+
+The proposed solution offers a valuable tool for the company's lead management strategy. By assigning lead scores, the model enables the company to prioritize and allocate resources more efficiently, focusing its efforts on prospects with the greatest potential for conversion. This strategic shift enhances the likelihood of achieving the desired lead conversion rate, resulting in more productive interactions with potential customers.
+
+Furthermore, the model's adaptability allows it to address potential future requirements and changing dynamics within the education industry. It provides a framework for continuous improvement and fine-tuning, ensuring that the lead scoring system remains aligned with evolving business objectives.
+
+In summary, the logistic regression model empowers the company to make data-driven decisions, streamline its lead conversion process, and enhance its overall efficiency. This strategic approach not only improves the targeting of leads but also positions the company for sustained success in the dynamic and competitive field of online education.
